@@ -1,0 +1,12 @@
+alt + 1 : 프로젝트 스트럭쳐(패키지 익스플로러)
+alt + 4 : console
+alt + 6 : problems
+esc : editor
+ctrl + e : 열려있는 파일목록
+ctrl + F4 : 현재 열려있는 에디터 종료
+ctrl + b : 호출되어있는 함수가 선언된 곳으로 이동 (함수 이름 위에서 사용)
+ctrl + F7 : 선언되어있는 함수가 호출된 모든 목록 표시 (함수 이름 위에서 사용)
+ctrl + shift + enter : if문 등의 코드 자동완성 중괄호나 소괄호 같은 거
+shift shift : 전체 검색
+
+sout + enter system.out.println 자동완성
