@@ -23,16 +23,16 @@ for(int i = 0; i < 10; i++) {
 
         // while 활용하기
 //        int[][] list = new int[4][4];
-//int flag = 0;
-//
-//        while(flag < 10) {
-//            int rnd1 = (int)(Math.random() * 4);
-//            int rnd2 = (int)(Math.random() * 4);
-//            int rnd3 = (int)(Math.random() * 9 + 1);
-//
-//            if (list[rnd1][rnd2] == 0) {
-//                list[rnd1][rnd2] = rnd3;
-//                flag--;
+int flag = 0;
+
+        while(flag < 10) {
+            int rnd1 = (int)(Math.random() * 4);
+            int rnd2 = (int)(Math.random() * 4);
+            int rnd3 = (int)(Math.random() * 9 + 1);
+
+            if (list[rnd1][rnd2] == 0) {
+                list[rnd1][rnd2] = rnd3;
+                flag--;
             } // if
         } // while
 
